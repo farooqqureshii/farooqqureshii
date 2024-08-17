@@ -1,7 +1,5 @@
 # Hi, I’m Farooq
 
-<!—
-
 ## Me in 3 lines
 
 I’m currently a student at the [University of Ottawa](https://www.notion.so/Read-me-file-33977fdf867441f5b7bb78f9a6e96c8c?pvs=21) where I’ll be studying a dual degree in Electrical Engineering and Computer Science. Learn more about my education [here](https://www.uottawa.ca/faculty-engineering/school-electrical-engineering-computer-science).
