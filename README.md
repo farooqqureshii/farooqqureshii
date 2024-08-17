@@ -1,4 +1,4 @@
-# Hi, I’m Farooq
+# Hi, I’m Farooq.
 
 ## Me in 3 lines
 
