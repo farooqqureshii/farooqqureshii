@@ -2,7 +2,7 @@
 
 ## Me in 3 lines
 
-I’m currently a student at the [University of Ottawa](HTTP://uottawa.ca) where I’ll be studying a dual degree in Electrical Engineering and Computer Science. Learn more about my education [here](https://www.uottawa.ca/faculty-engineering/school-electrical-engineering-computer-science).
+I’m a (soon to be) student at the [University of Ottawa](HTTP://uottawa.ca) studying a dual degree in Electrical Engineering and Computer Science. Learn more about my education [here](https://www.uottawa.ca/faculty-engineering/school-electrical-engineering-computer-science).
 
 This past summer I’ve worked on some [projects](http://farooqqureshi.com/work), read [a lot](http://farooqqureshi.com/books) and occasionally [written some thoughts](http://fq.bearblog.dev). 
 
