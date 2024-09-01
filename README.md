@@ -1,6 +1,6 @@
 # Hi, I’m Farooq (@farooqureshii)
 
-## About me (in three lines)
+## About me (in 3️⃣ lines)
 
 I’m a student at the [University of Ottawa](HTTP://uottawa.ca) studying a dual degree in Electrical Engineering and Computer Science. Learn more about my education [here](https://www.uottawa.ca/faculty-engineering/school-electrical-engineering-computer-science).
 
@@ -8,7 +8,7 @@ This past summer I’ve worked on some [projects](http://farooqqureshi.com/work)
 
 I’m deeply interested in: smart grids, autonomous vehicles, and human-robot interaction. 
 
-## About me (in more than three lines)
+## About me (in more than 3️⃣ lines)
 
 For me in more than three lines - check out my [website](http://farooqqureshi.com).
 
