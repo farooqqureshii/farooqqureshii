@@ -13,4 +13,4 @@ I’m deeply interested in: smart grids, autonomous vehicles, and human-robot in
 For me in more than three lines - check out my [website](http://farooqqureshi.com).
 
 ## Get in touch 
-I'm always up to chat & learn more -please feel free to reach out to farooq.qureshi@outlook.com or [/farooqq](https://www.linkedin.com/in/farooqq/) on Linkedin. 
+I'm always up to chat & learn more - please feel free to reach out to farooq.qureshi@outlook.com or [/farooqq](https://www.linkedin.com/in/farooqq/) on Linkedin. 
