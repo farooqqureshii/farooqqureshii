@@ -6,7 +6,7 @@ I’m a student at the [University of Ottawa](HTTP://uottawa.ca) studying a dual
 
 This past summer I’ve worked on some [projects](http://farooqqureshi.com/work) (see below, too), read [a lot](http://farooqqureshi.com/books) and occasionally [written some thoughts](http://fq.bearblog.dev). 
 
-I’m deeply interested in: smart grids, autonomous vehicles, and human-robot interaction. 
+I’m deeply interested in: autonomous vehicles, humanoid robotics, human-robot interaction and machine learning
 
 ## About me (in more than 3️⃣ lines)
 
