@@ -1,16 +1,9 @@
-# Hi, I’m Farooq (@farooqureshii)
+# hi, i'm farooq
 
-## About me (in 3️⃣ lines)
+i study electrical engineering @ [uottawa](https://www.uottawa.ca/faculty-engineering/school-electrical-engineering-computer-science). i'm also the director of [uOttaHack](uottahack.ca), where i lead the lovely team behind one of Canada's largest hackathons. 
 
-I’m a student at the [University of Ottawa](HTTP://uottawa.ca) studying a dual degree in Electrical Engineering and Computer Science. Learn more about my education [here](https://www.uottawa.ca/faculty-engineering/school-electrical-engineering-computer-science).
 
-I'm currently working on the community team to expand [uOttaHack](https://uottahack.ca) -Ottawa's longest running MLH hackathon.
+i have a key passion for product management. in my free time i teach competitive debating, with students of mine winnning nationally and across the globe.
 
-I’m deeply interested in: humanoid robotics, machine learning and AI safety & governance.
 
-## About me (in more than 3️⃣ lines)
-
-For me in more than three lines - explore my footprint on the web: [farooqqureshi.com](http://farooqqureshi.com).
-
-## Get in touch 👋
-I'm always up to chat & learn more - please feel free to reach out to farooq.qureshi@outlook.com or [/farooqq](https://www.linkedin.com/in/farooqq/) on Linkedin. 
+feel free to check out my footprint on the web @ [farooqqureshi.com](farooqqureshi.com)
