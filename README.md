@@ -8,9 +8,16 @@ in my free time, i coach **competitive debating**, with students of mine winning
 
 ---
 
-📬 check out my footprint on the web: [**farooqqureshi.com**](https://farooqqureshi.com)
+🔨 **things i've shipped recently**
 
-🔨 some things i've shipped recently:
+- ⚖️ [**EchoScope**](https://echoscope.vercel.app) – analyze youtube comment sections for diversity, sentiment, and bias using AI  
+- 🧭 [**Code Compass**](https://trycodecompass.vercel.app) – understand any GitHub repo and find beginner-friendly issues, fast
 
-- ⚖️ [**EchoScope**](https://echoscope.vercel.app) – analyze youtube comment sections for diversity, sentiment, and bias using AI.
-- 🧭 [**Code Compass**](https://trycodecompass.vercel.app) – understand any GitHub repo and find beginner-friendly issues, fast.
+
+🌐 **me on the web**
+
+- 🏠 [**farooqqureshi.com**](https://farooqqureshi.com) – portfolio, writing, and projects  
+- 🧠 [**curius.app/farooq-qureshi**](https://curius.app/farooq-qureshi) – stuff i find interesting  
+- 💼 [**linkedin.com/in/farooqq**](https://www.linkedin.com/in/farooqq)  
+- 📧 [**farooq.qureshi@outlook.com**](mailto:farooq.qureshi@outlook.com)
+
