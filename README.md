@@ -1,9 +1,11 @@
-# hi, i'm farooq
+# hi, i'm farooq 👋
 
-⚡i study electrical engineering @ [uottawa](https://www.uottawa.ca/faculty-engineering/school-electrical-engineering-computer-science). i'm also the director of [uOttaHack](uottahack.ca), where i lead the lovely team behind one of Canada's largest hackathons. 
+⚡ i study **electrical engineering** @ [uOttawa](https://www.uottawa.ca/faculty-engineering/school-electrical-engineering-computer-science).  
+i'm also the **director of [uOttaHack](https://uottahack.ca)** — one of **canada's largest student-run hackathons**.
 
+🚀 i'm passionate about **product management** and building tools that feel thoughtful and intentional.  
+in my free time, i coach **competitive debating**, with students of mine winning **nationally** and **internationally** 🏆
 
-🚀 i have a key passion for product management. in my free time i teach competitive debating, with students of mine winnning nationally and across the globe.
+---
 
-
-👋 feel free to check out my footprint on the web @ [farooqqureshi.com](farooqqureshi.com)
+📬 check out my footprint on the web: [**farooqqureshi.com**](https://farooqqureshi.com)  
