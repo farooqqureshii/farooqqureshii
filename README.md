@@ -10,8 +10,8 @@ in my free time, i coach **competitive debating**, with students of mine winning
 
 ## 🚀 things i've shipped recently
 
-- ⚖️ [**EchoScope**](https://echoscope.vercel.app) – analyze youtube comment sections for diversity, sentiment, and bias using AI  
-- 🧭 [**Code Compass**](https://trycodecompass.vercel.app) – understand any GitHub repo and find beginner-friendly issues, fast
+- ⚖️ [**EchoScope**](https://echoscope.vercel.app) – analyze youtube comment sections for diversity, sentiment, and bias using ai
+- 🧭 [**Code Compass**](https://trycodecompass.vercel.app) – understand any github repo and find beginner-friendly issues, fast
 
 ---
 
