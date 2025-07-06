@@ -9,7 +9,7 @@ in my free time, i coach **competitive debating**, with students of mine winning
 ---
 
 ## 🚀 things i've shipped recently
-
+- 🗣️ [**okbutpichit**](okbutpitchit.vercel.app) - code to pitch-ready slide deck & environment, in seeconds
 - ⚖️ [**EchoScope**](https://echoscope.vercel.app) – analyze youtube comment sections for diversity, sentiment, and bias using ai
 - 🧭 [**Code Compass**](https://trycodecompass.vercel.app) – understand any github repo and find beginner-friendly issues, fast
 
