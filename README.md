@@ -4,7 +4,8 @@
 i'm also the **director of [uOttaHack](https://uottahack.ca)** — where i lead the lovely team behind **ottawa's largest tech event**.
 
 🚀 i'm passionate about **product management**, **leadership**, and **working with users**.  
-in my free time, i coach **competitive debating**, with students of mine winning **nationally** and **internationally** 🏆
+
+📝 in my free time, i coach **competitive debating**, with students of mine winning **nationally** and **internationally** 🏆
 
 ---
 
