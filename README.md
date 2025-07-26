@@ -1,7 +1,7 @@
 # hi, i'm farooq 👋
 
 ⚡ i study **electrical engineering** @ [uOttawa](https://www.uottawa.ca/faculty-engineering/school-electrical-engineering-computer-science).  
-i'm also the **director of [uOttaHack](https://uottahack.ca)** — where i lead the lovely team behind **ottawa's largest tech event**. check us out: @uottahack
+i'm also the **director of [uOttaHack](https://uottahack.ca)** — where i lead the lovely team behind **ottawa's largest tech event**.
 
 🚀 i'm passionate about **product management**, **leadership**, and **working with users**.  
 
