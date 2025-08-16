@@ -10,7 +10,9 @@ i'm also the **director of [uOttaHack](https://uottahack.ca)** — where i lead 
 ---
 
 ## 🚀 things i've shipped recently
-- 🗣️ [**okbutpichit**](okbutpitchit.vercel.app) - code to pitch-ready slide deck & environment, in seeconds
+- 🤘 [**uoee.rocks**](uoee.rocks) - course visualizer & search for uOttawa ee students
+- 📈 [**voltus**](https://voltus.streamlit.app/) - RLC circuit simulator & visualization
+- 🗣️ [**okbutpichit**](okbutpitchit.vercel.app) - code to pitch-ready slide deck & environment, in seconds
 - ⚖️ [**EchoScope**](https://echoscope.vercel.app) – analyze youtube comment sections for diversity, sentiment, and bias using ai
 - 🧭 [**Code Compass**](https://trycodecompass.vercel.app) – understand any github repo and find beginner-friendly issues, fast
 
