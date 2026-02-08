@@ -3,7 +3,7 @@
 
 **About**
 
-I study [Electrical Engineering](https://uoee.rocks) at the [University of Ottawa](https://www.uottawa.ca/faculty-engineering/school-electrical-engineering-computer-science). I previously led the team behind Ottawa's largest technology event, [uOttaHack](https://uottahack.ca). I'm particuarly interested in product management and strategy!
+I study [Electrical Engineering](https://uoee.rocks) at the [University of Ottawa](https://www.uottawa.ca/faculty-engineering/school-electrical-engineering-computer-science). I previously led the team behind Ottawa's largest technology event, [uOttaHack](https://uottahack.ca). I'm particuarly interested in all things product and strategy related.
 
 **Links**
 
