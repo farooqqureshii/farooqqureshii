@@ -6,6 +6,9 @@ I Study [Electrical Engineering](https://uoee.rocks) at the [University of Ottaw
 
 ## Links
 [f-q.xyz](https://f-q.xyz)
+
 [linkedin.com/farooqq](https://www.linkedin.com/in/farooqq/)
+
 [farooq.qureshi@outlook.com](mailto:farooq.qureshi@outlook.com)
+
 [github.com/farooqqureshii](https://github.com/farooqqureshii)
