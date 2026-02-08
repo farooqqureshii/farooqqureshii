@@ -1,26 +1,11 @@
-# hi, i'm farooq 👋
+# Hi, i'm Farooq!
 
-⚡ i study **electrical engineering** @ [uOttawa](https://www.uottawa.ca/faculty-engineering/school-electrical-engineering-computer-science).  
-i'm also the **director of [uOttaHack](https://uottahack.ca)** — where i lead the lovely team behind **ottawa's largest tech event**.
+## About
 
-🚀 i'm passionate about **product management**, **leadership**, and **strategy**.  
+I Study [Electrical Engineering](https://uoee.rocks) at the [University of Ottawa](https://www.uottawa.ca/faculty-engineering/school-electrical-engineering-computer-science). I previously led the team behind Ottawa's largest technology event, [uOttaHack](https://uottahack.ca). I'm particuarly interested in product management and strategy!
 
-📝 in my free time, i coach **competitive debating**, with students of mine winning **nationally** and **internationally** 🏆
-
----
-
-## 🚀 things i've shipped recently
-- 🤘 [**uoee.rocks**](https://www.uoee.rocks/) - course visualizer & search for uOttawa ee students
-- 📈 [**voltus**](https://voltus.streamlit.app/) - RLC circuit simulator & visualization
-- 🗣️ [**okbutpichit**](okbutpitchit.vercel.app) - code to pitch-ready slide deck & environment, in seconds
-- ⚖️ [**EchoScope**](https://echoscope.vercel.app) – analyze youtube comment sections for diversity, sentiment, and bias using ai
-- 🧭 [**Code Compass**](https://trycodecompass.vercel.app) – understand any github repo and find beginner-friendly issues, fast
-
----
-
-## 🌐 me on the web
-
-- 🏠 [**farooqqureshi.com**](https://farooqqureshi.com) – portfolio, writing, and projects  
-- 🧠 [**curius.app/farooq-qureshi**](https://curius.app/farooq-qureshi) – stuff i find interesting  
-- 💼 [**linkedin.com/in/farooqq**](https://www.linkedin.com/in/farooqq)  
-- 📧 [**farooq.qureshi@outlook.com**](mailto:farooq.qureshi@outlook.com)
+## Links
+[f-q.xyz](https://f-q.xyz)
+[linkedin.com/farooqq](https://www.linkedin.com/in/farooqq/)
+[farooq.qureshi@outlook.com](mailto:farooq.qureshi@outlook.com)
+[github.com/farooqqureshii](https://github.com/farooqqureshii)
