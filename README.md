@@ -11,6 +11,6 @@ I study [Electrical Engineering](https://uoee.rocks) at the [University of Ottaw
 
 [linkedin.com/farooqq](https://www.linkedin.com/in/farooqq/)
 
-[farooq.qureshi@outlook.com](mailto:farooq.qureshi@outlook.com)
+[farooq.qureshi@uottawa.ca](mailto:farooq.qureshi@uottawa.ca)
 
 [github.com/farooqqureshii](https://github.com/farooqqureshii)
